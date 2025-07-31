@@ -4,11 +4,11 @@
 
 ## 🧠 About Me
 
-I'm Tharuksha Aaron Don, a Computer Science and Mathematics student passionate about using technology to solve real-world problems that matter.
+My name is Tharuksha Aaron Don, a Computer Science major (Math minor) at the College of Staten Island, graduating Spring 2026. As CTO and co‑founder of Dolphin Capital, CSI’s first student‑run investment fund, I architect our quantitative infrastructure, build Python‑based frameworks, and automate backtesting with QuantConnect. On campus, I keep peers and systems connected as an IT Help Desk Analyst, and off campus, I streamline care-team communication as a Patient & Customer Experience Liaison at Northwell Health.
 
-I’m Tharuksha Aaron Don—a Computer Science & Math student and **Break Through Tech AI Fellow** through Cornell Tech—driven by a passion for using technology to solve problems that matter. As CTO and Co-founder of **Dolphin Capital** at CSI, I lead quant model development and technical operations for our student-run investment fund. I also work part-time as a **Patient & Customer Experience Liaison** at Northwell Health, gaining firsthand insight into healthcare challenges.
+Skilled in Python, C/C++, Django, ML/AI, and other technologies, I’m passionate about driving impact at the intersection of technology and real‑world challenges. I’m eager to deepen my consulting, cloud computing, and IT management expertise, working alongside seasoned professionals to deploy scalable, secure solutions.
 
-My goal is to combine my cross-industry experiences, from finance to healthcare, to build data-driven systems that improve patient outcomes, streamline operations, or tackle whatever the next challenge comes my way. Whether I’m optimizing code performance, architecting secure full-stack solutions, developing intelligent models, or guiding teams through complex tech hurdles, I thrive at the intersection of technology, innovation, and impact.
+In the short term, I’m focused on sharpening my software development and data science skills to become an even more effective collaborator and problem solver. Long term, I aspire to translate that technical foundation into program or product management roles, especially in healthcare or finance, championing innovation that uplifts teams and transforms systems.
 
 ---
 
