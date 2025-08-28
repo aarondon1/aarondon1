@@ -12,7 +12,6 @@ In the short term, I’m focused on sharpening my software development and data 
 
 ---
 
----
 
 ## 🚀 Tech Stack
 
@@ -35,25 +34,6 @@ In the short term, I’m focused on sharpening my software development and data 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![QuantConnect](https://img.shields.io/badge/QuantConnect-black?style=flat&logo=data&logoColor=white)
-
----
-
-## 🎯 Goals & Interests
-
-**Short-Term Goals:**  
-- Strengthen software engineering, AI/ML, and data science fundamentals  
-- Collaborate on impactful open-source or real-world projects  
-- Grow as a team contributor and technical problem solver
-
-**Long-Term Goals:**  
-- Transition into roles that combine **technology with systems-level impact**, whether in healthcare or financial services  
-- Apply my skills in **consulting, digital transformation**, or **product/program management** to build resilient, equitable systems  
-- Be part of communities that **champion innovation and uplift others**
-
-**Learning Interests:**  
-- Digital enterprise & technology consulting  
-- Cloud platforms (AWS, GCP, Azure)  
-- IT operations and infrastructure strategy
 
 ---
 
