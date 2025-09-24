@@ -4,7 +4,7 @@
 
 ## 🧠 About Me
 
-My name is Tharuksha Aaron Don, a Computer Science major with a minor in Mathematics at the College of Staten Island, graduating Spring 2026. As CTO and co‑founder of Dolphin Capital, CSI’s first student‑run investment fund, I architect our quantitative infrastructure, build Python‑based frameworks, and automate backtesting with QuantConnect. On campus, I keep peers and systems connected as an IT Help Desk Analyst, and off campus, I streamline care-team communication as a Patient & Customer Experience Liaison at Northwell Health.
+My name is Tharuksha Aaron Don, a Computer Science major with a minor in Mathematics at the College of Staten Island, graduating Spring 2026. As CTO and co-founder of Dolphin Capital, CSI’s first student-run investment fund, I architect our quantitative infrastructure, build Python-based frameworks, and automate backtesting. On campus, I keep peers and systems connected as an IT Help Desk Analyst, and off campus, I streamline care-team communication as a Patient & Customer Experience Liaison at Northwell Health.
 
 Skilled in Python, C/C++, Django, ML/AI, and other technologies, I’m passionate about driving impact at the intersection of technology and real‑world challenges. I’m eager to deepen my consulting, cloud computing, and IT management expertise, working alongside seasoned professionals to deploy scalable, secure solutions.
 
